@@ -1,0 +1,14 @@
+/* header css */
+.main-nav {
+    background-color :#a8dadc;
+    
+}
+
+.main-nav .navbar-nav a.nav-link{
+    color: #484848;
+    font-weight: 600;
+}
+
+.main-nav .navbar-nav .nav-link.active, .main-nav .navbar-nav  .nav-link:hover{
+    color :#f1faee;
+}
