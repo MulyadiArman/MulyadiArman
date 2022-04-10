@@ -12,3 +12,13 @@
 .main-nav .navbar-nav .nav-link.active, .main-nav .navbar-nav  .nav-link:hover{
     color :#f1faee;
 }
+
+/* untuk css global */
+.main-hijau {
+    background-color :#a8dadc;
+    color : #484848;
+}
+
+.main-hijau h2 span {
+    color :#fff
+}
